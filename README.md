@@ -7,6 +7,6 @@ This project focuses on analyzing credit card transactions to uncover spending b
 Created a comprehensive credit card analysis dashboard using Power BI, providing actionable insights into customer spending behaviors, credit card usage patterns, and risk management areas. Utilized advanced DAX calculations, custom visuals, and dynamic filters to enhance user experience and interactivity.
 
 Key Features:
-Integrated multiple data sources into a robust data model using Power Query.
-Employed advanced DAX calculations for dynamic metrics and insights.
-Designed interactive visuals for detailed data analysis, including drill-through capabilities and slicers.
+* Integrated multiple data sources into a robust data model using Power Query.
+* Employed advanced DAX calculations for dynamic metrics and insights.
+* Designed interactive visuals for detailed data analysis, including drill-through capabilities and slicers.
